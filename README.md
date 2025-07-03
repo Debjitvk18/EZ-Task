@@ -7,7 +7,7 @@ This project implements a secure file-sharing system with clearly separated user
 ### 1. 🧱 Architecture Design
 
 - *Frontend: Built using **ReactJS* with functional components and hooks.
-- *Backend: Developed using **Python* (Flask or FastAPI) to create RESTful APIs.
+- *Backend: Developed using **Python* (Django or FastAPI) to create RESTful APIs.
 - *Database: A flexible design supporting either **SQL (PostgreSQL)* or *NoSQL (MongoDB)* depending on scalability needs.
 - *Security*:
   - JWT-based authentication for all API endpoints
